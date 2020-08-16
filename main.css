@@ -91,6 +91,7 @@ hr {
   color: #fff;
   font-size: 15px;
   border: 1px solid #fff;
+  letter-spacing: 1.5px;
 }
 
 .btn:hover {
@@ -118,6 +119,7 @@ hr {
 
 .showcase .btn {
   margin-top: 20px;
+  border-radius: 6px;
 }
 
 /* News Cards */
