@@ -101,7 +101,7 @@ hr {
 .showcase {
 	width: 100%;
 	height: 550px;
-	background: url('./img/showcase2.jpg') no-repeat center center/cover;
+	background: url('./img/showcase2.svg') no-repeat center center/cover;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -212,7 +212,7 @@ hr {
 }
 
 .links a:hover img {
-	background: rgba(86, 224, 52, 0.432);
+	background: rgba(247, 248, 248, 0.856);
 	transition: 0.5s;
 }
 
